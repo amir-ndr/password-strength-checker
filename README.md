@@ -1,4 +1,4 @@
-# strengh-password-checker
+# password-strength-checker
 
 npm insatll
 <br>
