@@ -1,0 +1,1 @@
+# strengh-password-checker
